@@ -1,3 +1,14 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+     <meta charset="utf-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>Privacy Policy - gamesBARS</title>
+    <link href="styles/style.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Raleway:200,400" rel="stylesheet">
+</head>
+<body>
 <h1>Privacy Policy</h1>
     <p>Our Privacy Policy explains:
 <ul>
@@ -43,3 +54,5 @@ We collect information to provide better services to all of our users. Informati
 We use the information that we collect from all of our applications to improve our applications and make it better for you. We may share aggregated, non-personally identifiable information publicly and with our partners, such as publishers, advertisers or connected sites. For example, we may share information publicly to show trends about the general use of our apps. Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any Privacy Policy changes on this page. If you have any questions - you can ask them by e-mail.
 
 </p>
+</body>
+</html>
