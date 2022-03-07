@@ -1,4 +1,5 @@
-Privacy Policy
+<h1>Privacy Policy</h1>
+
 Our Privacy Policy explains:
 
 What information we collect and why we collect it.
